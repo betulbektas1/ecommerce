@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "The Purest Solutions Arbutin Brightening - Leke Karşıtı Serum 30ml",
+    "price": {
+      "oldPrice": 199.9,
+      "newPrice": 139.9
+    },
+    "discount": 30,
+    "img": {
+      "singleImage": "img/products/product1/1.png",
+      "thumbs": ["img/products/product1/1.png", "img/products/product1/2.png"]
+    }
+  },
+  {
+    "id": 2,
+    "name": "The Purest Solutions Brightening & Lightening Vitamin C Serum 30ml",
+    "price": {
+      "oldPrice": 209.92,
+      "newPrice": 153.27
+    },
+    "discount": 27,
+    "img": {
+      "singleImage": "img/products/product2/1.png",
+      "thumbs": ["img/products/product2/1.png", "img/products/product2/2.png"]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Dermoskin Be Bright AHA/BHA Krem 33 ml",
+    "price": {
+      "oldPrice": 165.99,
+      "newPrice": 126.88
+    },
+    "discount": 90,
+    "img": {
+      "singleImage": "img/products/product3/1.png",
+      "thumbs": ["img/products/product3/1.png", "img/products/product3/2.png"]
+    }
+  },
+  {
+    "id": 4,
+    "name": "La Roche Posay La Roche-posay Effaclar Yağlı Ciltler Için Yüz Temizleme Jeli 400ml",
+    "price": {
+      "oldPrice": 264.5,
+      "newPrice": 211.6
+    },
+    "discount": 20,
+    "img": {
+      "singleImage": "img/products/product4/1.png",
+      "thumbs": ["img/products/product4/1.png", "img/products/product4/2.png"]
+    }
+  },
+  {
+    "id": 5,
+    "name": "SPF 50+ Mineral Fluid",
+    "price": {
+      "oldPrice": 514.5,
+      "newPrice": 360.15
+    },
+    "discount": 30,
+    "img": {
+      "singleImage": "img/products/product5/1.png",
+      "thumbs": ["img/products/product5/1.png", "img/products/product5/2.png"]
+    }
+  },
+  {
+    "id": 6,
+    "name": "Bioderma Sensibio Foaming Gel 500 ml",
+    "price": {
+      "oldPrice": 299.9,
+      "newPrice": 239.9
+    },
+    "discount": 20,
+    "img": {
+      "singleImage": "img/products/product6/1.png",
+      "thumbs": ["img/products/product6/1.png", "img/products/product6/1.png"]
+    }
+  },
+  {
+    "id": 7,
+    "name": "Bioderma Sébium Global 30 ml Bakım Kremi",
+    "price": {
+      "oldPrice": 225.0,
+      "newPrice": 191.25
+    },
+    "discount": 15,
+    "img": {
+      "singleImage": "img/products/product7/1.png",
+      "thumbs": ["img/products/product7/1.png", "img/products/product7/1.png"]
+    }
+  },
+  {
+    "id": 8,
+    "name": "Elseve Dream Long Uzun Saç Bakım Seti",
+    "price": {
+      "oldPrice": 251.9,
+      "newPrice": 209.9
+    },
+    "discount": 17,
+    "img": {
+      "singleImage": "img/products/product8/1.png",
+      "thumbs": ["img/products/product8/1.png", "img/products/product8/1.png"]
+    }
+  }
+]
